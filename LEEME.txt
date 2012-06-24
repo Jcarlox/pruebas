@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion 2 en homeJc
+=======
+modificacion 1 en movilJc
+>>>>>>> eb5caca8ab14b3b995e76454d3c2e81370e315c3
